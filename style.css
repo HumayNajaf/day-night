@@ -1,13 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik');
-.credit {
-  position: fixed;
-  right: 2rem;
-  bottom: 2rem;
-  color: white;
-}
-.credit a {
-  color: inherit;
-}
+
 body{
   margin: 0;
   padding: 0;
